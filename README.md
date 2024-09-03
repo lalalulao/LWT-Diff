@@ -1,7 +1,7 @@
 # Title:Diffusion Model with Multi-layer Wavelet Transform for Low-Light Image Enhancement
 
 ## Pipline
-![image](image\Pipline.png)
+![image](\image\Pipeline.png)
 ## Requirements
 
 To install requirements:
