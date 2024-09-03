@@ -1,4 +1,4 @@
-# Diffusion Model with Multi-layer Wavelet Transform for Low-Light Image Enhancement
+# Title:Diffusion Model with Multi-layer Wavelet Transform for Low-Light Image Enhancement
 
 This repository is the official implementation of [My Paper Title](Diffusion Model with Multi-layer Wavelet Transform for Low-Light Image Enhancement). 
 
