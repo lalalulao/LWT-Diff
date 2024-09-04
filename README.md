@@ -28,6 +28,8 @@ python evaluate.py --model-file mymodel.pth --benchmark imagenet
 ```
 ## Visual Comporison
 
+![image](https://github.com/lalalulao/MWT-Diff/blob/origin/image/Figure2.png)
+
 ## Pre-trained Models
 
 You can download pretrained models here:
