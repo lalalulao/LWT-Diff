@@ -1,7 +1,8 @@
 # Title:Diffusion Model with Multi-layer Wavelet Transform for Low-Light Image Enhancement
 
 ## Pipline
-![image]([image\Pipeline.png](https://github.com/lalalulao/LWT-Diff/blob/master/image/Compare.png))
+![image](https://github.com/lalalulao/MWT-Diff/blob/origin/image/Figure1.png)
+
 ## Requirements
 
 To install requirements:
