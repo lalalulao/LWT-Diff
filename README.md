@@ -34,4 +34,4 @@ python evaluate.py --model-file mymodel.pth --benchmark imagenet
 
 You can download pretrained models here:
 
-- [My awesome model](https://drive.google.com/mymodel.pth). 
+- [My awesome model](https://pan.baidu.com/s/1X4lzrreu2l2oRyshIv0BSw). 
